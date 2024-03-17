@@ -43,6 +43,8 @@ gallery.insertAdjacentHTML('beforeend', markup);
 // }
 
 
+
+
 // const formElement = document.querySelector('.js-register-form');
 
 // formElement.addEventListener('submit', handleFormSubmit);
@@ -59,3 +61,5 @@ gallery.insertAdjacentHTML('beforeend', markup);
 //         console.log('value', value);
 //     })
 // }
+
+
